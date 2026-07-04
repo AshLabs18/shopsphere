@@ -1,7 +1,7 @@
 {
-  "name": "MERN e-commerce",
+  "name": "MERN e-commerce project ",
   "version": "1.0.0",
-  "description": "MERN Stack E-Commerce Project",
+  "description": "MERN Stack E-Commerce Project shopsphere",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,7 +10,8 @@
     "dev": "concurrently \"npm run frontend\" \"npm run backend"
   },
   "keywords": [],
-  "author": "HuXn WebDev",
+  "author": "shopsphere
+",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
